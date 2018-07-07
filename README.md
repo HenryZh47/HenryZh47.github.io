@@ -1,2 +1,3 @@
-# HenryZh47.github.io
-Henry's personal website
+# Hengrui (Henry) Zhang Personal Website 
+
+This repository demonstrates the projects I've been working on.
