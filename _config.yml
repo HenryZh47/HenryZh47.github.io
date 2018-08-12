@@ -27,7 +27,7 @@ description              : >- # this means to ignore newlines until "baseurl:"
                            Henry Zhang's personal blog. This site is meant to show the projects I've been
                            working on and interesting things in my life.
 url                     : "http://henryzh47.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -44,7 +44,7 @@ author:
   location         : "Pittsburgh"
   email            : "hzhang0407@gmail.com"
   uri              : "http://henryzh47.github.io"
-  github           : "https://github.com/HenryZh47"
+  github           : "HenryZh47"
 
 # Conversion
 markdown: kramdown
@@ -67,7 +67,7 @@ kramdown:
 # Outputting
 permalink:
 paginate: 5 # amount of posts to show
-paginate_path: 
+paginate_path:
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
