@@ -37,11 +37,11 @@ words_per_minute         : 200
 # Site Author
 author:
   name             : "Henry Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpeg"
   bio              : "Carnegie Mellon University
                       Mechanical Engineering and Robotics
                       Class of 2019"
-  location         : "Pittsburgh"
+  location         : "Pittsburgh, PA"
   email            : "hzhang0407@gmail.com"
   uri              : "http://henryzh47.github.io"
   github           : "HenryZh47"

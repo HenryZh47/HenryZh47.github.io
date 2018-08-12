@@ -22,7 +22,7 @@ As shown in the picture, the sensor pod consists of a set of sensors (stereo/the
 All the sensors are mounted on a single aluminum sheet to ensure no undesired displacement will happen between sensors when operating. The device can be used both hand-held or mounted on a tripod.
 <figure class="half">
   <a href="/assets/images/sensor_pod_photos/tripod.jpeg"><img src="/assets/images/sensor_pod_photos/tripod.jpeg"></a>
-  <a href="/assets/images/sensor_pod_photos/tripod.jpeg"><img src="/assets/images/sensor_pod_photos/tripod.jpeg"></a>
+  <a href="/assets/images/sensor_pod_photos/hand_held.jpg"><img src="/assets/images/sensor_pod_photos/hand_held.jpg"></a>
   <figcaption>Hand-held and tripod configuration</figcaption>
 </figure>
 
