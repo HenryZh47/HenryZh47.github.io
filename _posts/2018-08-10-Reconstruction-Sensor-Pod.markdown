@@ -26,8 +26,15 @@ All the sensors are mounted on a single aluminum sheet to ensure no undesired di
   <figcaption>Hand-held and tripod configuration</figcaption>
 </figure>
 
-The Velodyne LiDAR is connected with a g2 customized motor, allowing the LiDAR to externally rotate. Combining the encoder data from the motor and the Velodyne sensor data points, we can generate a denser point cloud that covers the entire 3D space.
-** Put a video here!
+The Velodyne LiDAR is connected to a g2 customized motor, allowing the LiDAR to externally rotate. Combining the encoder data from the motor and the Velodyne sensor data points, we can generate a denser point cloud that covers the entire 3D space.
+
+<figure class="half">
+  <a href="/assets/images/sensor_pod_photos/corridor1.png"><img src="/assets/images/sensor_pod_photos/corridor1.png"></a>
+  <a href="/assets/images/sensor_pod_photos/outside1.png"><img src="/assets/images/sensor_pod_photos/outside1.png"></a>
+  <figcaption>Velodyne LiDAR data points visualization</figcaption>
+</figure>
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=0I8w8B87FbY&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
 
 ## Algorithms Overview
 ** Here goes the algorithms overview.
