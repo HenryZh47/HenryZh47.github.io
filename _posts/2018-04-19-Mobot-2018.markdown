@@ -7,3 +7,28 @@ header:
 toc: true
 toc_sticky: true
 ---
+
+## Introduction
+Mobot is an annual competition for students to build mobile robot that can follow the lines in front of Wean Hall and pass the small gates. The official website for the competition is [here](https://www.cs.cmu.edu/mobot/index.html). As quoted from the website:
+> The purpose of the competition is to generate technological excitement, provide hands-on experience for our undergraduates, and showcase the cleverness and technical competence of Carnegie Mellon undergraduates and other community members (including alumni). We hope to stimulate inter-disciplinary activity toward producing something that is technically noteworthy.
+
+I do gain a lot from the competition and bond with my teammates: Alvin and Wayne.
+<figure>
+  <a href="/assets/images/mobot/people.jpg"><img src="/assets/images/mobot/people.jpg"></a>
+  <figcaption> Alvin Shi (right), Wayne Liu (middle) and I (left) </figcaption>
+</figure>
+
+## Hardware
+We purchased a chassis online due to tight timeline. This chassis didn't really perform well and that's the main reason we only got third place. It would understeer and thus went out of bounds when encountered sharp turns. It looks good though.
+
+## Perception
+Here is a demonstration of the vision system of our robot. It shows the capability to extract the line and also identify intersections of lines.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pKKLPd_fMUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+The method we use is to divide each frame into horizontal stripes, and perform segmentation on each of the stripes. If there is no intersection then there should be only one line segment in each of the image stripe, and more than one if there is intersection.
+
+[Here](https://github.com/alvinshi/Mobot_2018) is the Github repository of the project. The vision algorithm is implemented in ImageProcess.py.
+
+## RUN!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZ35bDdGzBw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
