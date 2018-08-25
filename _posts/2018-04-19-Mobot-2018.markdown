@@ -12,7 +12,7 @@ toc_sticky: true
 Mobot is an annual competition for students to build mobile robot that can follow the lines in front of Wean Hall and pass the small gates. The official website for the competition is [here](https://www.cs.cmu.edu/mobot/index.html). As quoted from the website:
 > The purpose of the competition is to generate technological excitement, provide hands-on experience for our undergraduates, and showcase the cleverness and technical competence of Carnegie Mellon undergraduates and other community members (including alumni). We hope to stimulate inter-disciplinary activity toward producing something that is technically noteworthy.
 
-I do gain a lot from the competition and bond with my teammates: Alvin and Wayne.
+I do gain a lot from the competition and bond with my teammates: Alvin and Wayne. Same team as always.
 <figure>
   <a href="/assets/images/mobot/people.jpg"><img src="/assets/images/mobot/people.jpg"></a>
   <figcaption> Alvin Shi (right), Wayne Liu (middle) and I (left) </figcaption>
@@ -26,7 +26,7 @@ Here is a demonstration of the vision system of our robot. It shows the capabili
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pKKLPd_fMUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-The method we use is to divide each frame into horizontal stripes, and perform segmentation on each of the stripes. If there is no intersection then there should be only one line segment in each of the image stripe, and more than one if there is intersection.
+The method we use is to divide each frame into horizontal stripes, and perform segmentation on each of the stripes. If there is no intersection then there should be only one line segment in each of the image stripe, and more than one if there is an intersection.
 
 [Here](https://github.com/alvinshi/Mobot_2018) is the Github repository of the project. The vision algorithm is implemented in ImageProcess.py.
 
