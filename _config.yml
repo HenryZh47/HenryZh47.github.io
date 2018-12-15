@@ -24,7 +24,8 @@ title                    : Henry's Blog
 title_separator          :
 name                     : "Henry Zhang"
 description              : >- # this means to ignore newlines until "baseurl:"
-                           Henry Zhang's personal blog. This site is meant to show the projects I've been
+                           Henry Zhang's personal blog.  
+                           This site is meant to show the projects I've been
                            working on and interesting things in my life.
 url                     : "http://henryzh47.github.io"
 baseurl                  : ""  # the subpath of your site, e.g. "/blog"
@@ -38,9 +39,7 @@ words_per_minute         : 200
 author:
   name             : "Henry Zhang"
   avatar           : "/assets/images/avatar.jpeg"
-  bio              : "Carnegie Mellon University
-                      Mechanical Engineering and Robotics
-                      Class of 2019"
+  bio              : "Senior Mechanical Engineering and Robitcs Student at CMU"
   location         : "Pittsburgh, PA"
   email            : "hzhang0407@gmail.com"
   uri              : "http://henryzh47.github.io"
