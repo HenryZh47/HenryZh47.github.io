@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 ---
 
-This is a project that I've been working on during my internship at the Airlab since May 2018. The goal of this sensor pod is to achieve sub-millimeter accuracy 3D reconstruction using a pair of high resolution XIMEA stereo cameras and a Velodyne LiDAR. The device can also provide thermal information using the onboard FLIR thermal camera.
+This is a project that I've been working on during my internship at the Airlab since May 2018. The goal of this sensor pod is to achieve high accuracy 3D reconstruction using a pair of high resolution XIMEA stereo cameras and a Velodyne LiDAR. The device can also provide thermal information using the onboard FLIR thermal camera.
 
 ## Hardware Overview
 <figure>
