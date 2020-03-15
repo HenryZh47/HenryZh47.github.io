@@ -4,11 +4,8 @@
 layout: single
 author_profile: true
 ---
-:star2: **NEWS: _[Team Explorer](https://www.subt-explorer.com/) is competing 
-in the Urban Circuit of DARPA Subterranean Challenge!_** :star2:
-
-:star2: **NEWS: _I'll be joining Facebook Reality Lab as optical test intern 
-summer 2020!_** :star2:
+:star2: **NEWS: _[Team Explorer](https://www.subt-explorer.com/) won the second 
+place in the Urban Circuit of DARPA Subterranean Challenge!_** :star2:
 
 ## Who am I
 I'm a master student in the [Robotics Institute](https://www.ri.cmu.edu/) 
