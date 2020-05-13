@@ -102,6 +102,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+collections:
+  random:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -125,3 +129,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _portfolio
+  - scope:
+      path: "_random"
+      type: random
+    values:
+      layout: single
+      author_profile: true
+      share: true
