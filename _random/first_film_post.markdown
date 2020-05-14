@@ -61,7 +61,7 @@ Minolta X700，完成未竟的事业（随便拍拍，看看就好）
 
 <figure>
   <a href="/assets/images/films/2020-04-28/000164400025.jpg"><img src="/assets/images/films/2020-04-28/000164400025.jpg"></a>
-  <figcaption> RI40 @ Carnegie Mellon University </figcaption>
+  <figcaption> HCII 25 Years @ Carnegie Mellon University </figcaption>
 </figure>
 
 <figure>
