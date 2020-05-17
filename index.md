@@ -21,8 +21,8 @@ I'm currently working on the perception at
 [Team Explorer](https://www.subt-explorer.com/), 
 the DARPA Subterranean Challenge Participant. 
 
-## Projects
-_Checkout more of my projects in the link above!_
+## Projects & Random
+_Checkout more of my projects and random blogs in the link above!_
 <figure class="half">
 	<img src="/assets/images/index_images/subT.gif">
 	<img src="/assets/images/index_images/washbot_demo.gif">
