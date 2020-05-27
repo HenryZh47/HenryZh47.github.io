@@ -17,7 +17,7 @@ in world frame and renders a depth image corresponding to camera’s field of vi
 implemented sequential (one process on single CPU core), OpenMP, and CUDA versions,
 and benchmarked the performance of each of the implementation.
 
-Project GitHub link: [https://github.com/HenryZh47/lidar-depth-image-renderer]()
+Project GitHub link: [https://github.com/HenryZh47/lidar-depth-image-renderer](https://github.com/HenryZh47/lidar-depth-image-renderer)
 
 ## Software Pipeline and Data Structures
 
