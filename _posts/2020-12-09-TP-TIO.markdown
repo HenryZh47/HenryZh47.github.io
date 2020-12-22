@@ -1,0 +1,15 @@
+---
+title: "TP-TIO: A Robust Thermal-Inertial Odometry with Deep ThermalPoint"
+date: 2020-12-09 11:00:17 -0400
+header:
+  overlay_image: /assets/images/tptio/sensor_comp.png
+  overlay_filter: 0.25
+  caption: Thermal image robust to heavy fog
+toc: true
+toc_sticky: true
+---
+
+In this paper we proposed a optimization-based visual-inertial framework with 
+deep ThermalPoint to enable thermal-inertial odometry for mobile robots.
+
+This work is developed under the DARPA Subterranean Challenge.
