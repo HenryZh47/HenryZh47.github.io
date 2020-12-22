@@ -5,9 +5,6 @@ layout: single
 author_profile: true
 ---
 
-:star2: **NEWS: _I'll be interning at Facebook Reality Lab as Optical Test
-Engineer Intern this summer!_** :star2:
-
 ## Who am I
 
 I'm a master student in the [Robotics Institute](https://www.ri.cmu.edu/)
