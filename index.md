@@ -32,3 +32,9 @@ _Checkout more of my projects and random blogs in the link above!_
 	<figcaption>Left: DARPA Subterranean Challenge | Right: Washbot Capstone 
                 Project</figcaption>
 </figure>
+
+<figure>
+	<img src="/assets/images/index_images/tptio.gif">
+	<figcaption>TP-TIO: A Robust Thermal-Inertial Odometry with Deep ThermalPoint</figcaption>
+</figure>
+
