@@ -12,4 +12,7 @@ toc_sticky: true
 In this paper we proposed a optimization-based visual-inertial framework with 
 deep ThermalPoint to enable thermal-inertial odometry for mobile robots.
 
-This work is developed under the DARPA Subterranean Challenge.
+This work is developed under the DARPA Subterranean Challenge and published on
+IROS 2020.
+
+[Link to Paper](https://arxiv.org/abs/2012.03455)
