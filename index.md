@@ -16,7 +16,7 @@ I received my Bachelor's degree in
 [additional major in Robotics](https://www.ri.cmu.edu/education/academic-programs/undergraduate-options/)
 at Carnegie Mellon University.
 
-I'm currently working on the perception at
+I'm currently working on robot visual-inertial state estimation at
 [Team Explorer](https://www.subt-explorer.com/),
 the DARPA Subterranean Challenge Participant.
 
