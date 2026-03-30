@@ -7,6 +7,36 @@
     <link rel="icon" type="image/jpeg" href="/assets/images/avatar.jpeg">
     <link rel="shortcut icon" type="image/jpeg" href="/assets/images/avatar.jpeg">
     <style>
+        :root {
+            --bg: #f8f9fa;
+            --card-bg: white;
+            --text: #333;
+            --text-secondary: #555;
+            --heading: #2c3e50;
+            --border: #e0e0e0;
+            --link: #1064c4;
+            --link-hover: #437ed6;
+            --btn-bg: #f8f9fa;
+            --btn-hover: #437ed6;
+            --shadow: rgba(0, 0, 0, 0.1);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #1a1a1a;
+                --card-bg: #2a2a2a;
+                --text: #e0e0e0;
+                --text-secondary: #b0b0b0;
+                --heading: #e0e0e0;
+                --border: #3a3a3a;
+                --link: #64b5f6;
+                --link-hover: #90caf9;
+                --btn-bg: #333;
+                --btn-hover: #555;
+                --shadow: rgba(0, 0, 0, 0.3);
+            }
+        }
+
         * {
             margin: 0;
             padding: 0;
@@ -16,8 +46,8 @@
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
-            color: #333;
-            background: #f8f9fa;
+            color: var(--text);
+            background: var(--bg);
             min-height: 100vh;
             margin: 0;
             padding: 20px;
@@ -25,12 +55,12 @@
 
         .header {
             padding: 20px 40px;
-            border-bottom: 1px solid #e0e0e0;
+            border-bottom: 1px solid var(--border);
         }
 
         .header h1 {
             font-size: 1.5rem;
-            color: #2c3e50;
+            color: var(--heading);
             font-weight: 600;
             margin: 0;
         }
@@ -39,16 +69,16 @@
             padding: 25px;
             max-width: 800px;
             margin: 40px auto 0;
-            background: white;
+            background: var(--card-bg);
             border-radius: 20px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 20px 40px var(--shadow);
         }
 
 
         .bio {
             font-size: 0.9rem;
             line-height: 1.1;
-            color: #555;
+            color: var(--text-secondary);
             margin-bottom: 20px;
             margin-left: 2px;
             margin-right: 2px;
@@ -60,12 +90,12 @@
         }
 
         .bio a {
-            color: #1064c4;
+            color: var(--link);
             text-decoration: none;
         }
 
         .bio a:hover {
-            color: #437ed6;
+            color: var(--link-hover);
             text-decoration: underline;
         }
 
@@ -80,8 +110,8 @@
             display: inline-flex;
             align-items: center;
             padding: 12px 24px;
-            background: #f8f9fa;
-            color: #333;
+            background: var(--btn-bg);
+            color: var(--text);
             text-decoration: none;
             border-radius: 50px;
             font-weight: 500;
@@ -89,29 +119,29 @@
         }
 
         .social-link:hover {
-            background: #667eea;
+            background: var(--btn-hover);
             color: white;
             transform: translateY(-2px);
         }
 
         .social-link.github:hover {
-            background: #437ed6;
+            background: var(--btn-hover);
         }
 
         .social-link.linkedin:hover {
-            background: #437ed6;
+            background: var(--btn-hover);
         }
 
         .social-link.email:hover {
-            background: #437ed6;
+            background: var(--btn-hover);
         }
 
         .social-link.scholar:hover {
-            background: #437ed6;
+            background: var(--btn-hover);
         }
 
         .social-link.x:hover {
-            background: #437ed6;
+            background: var(--btn-hover);
         }
 
         @media (max-width: 768px) {
